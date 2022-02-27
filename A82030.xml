@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Decay of trade. A treatise against the abating of interest. Or Reasons shewing the inconveniencies which will insue, by the bringing downe of interest money to six or five in the hundred, and raising the price of land in this kingdome. / By a Well wisher of the Common-wealth.</title>
+            <author>Well wisher of the Common-wealth.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82030</idno>
+            <idno type="STC">Wing D512</idno>
+            <idno type="STC">Thomason E170_5</idno>
+            <idno type="STC">ESTC R9253</idno>
+            <idno type="EEBO-CITATION">99873512</idno>
+            <idno type="PROQUEST">99873512</idno>
+            <idno type="VID">157033</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82030)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157033)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 30:E170[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Decay of trade. A treatise against the abating of interest. Or Reasons shewing the inconveniencies which will insue, by the bringing downe of interest money to six or five in the hundred, and raising the price of land in this kingdome. / By a Well wisher of the Common-wealth.</title>
+                  <author>Well wisher of the Common-wealth.</author>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>for John Sweeting,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Interest rates --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157033:1"/>
+            <pb facs="tcp:157033:1" rendition="simple:additions"/>
+            <p>Decay of Trade. A TREATISE Againſt the abating of INTEREST. OR Reaſons ſhewing the inconvenien<g ref="char:EOLhyphen"/>cies which will inſue, by the bringing downe of Intereſt money to ſix or five in the Hundred, and raiſing the price of Land in this Kingdome.</p>
+            <p>By a well wiſher of the Common-wealth.</p>
+            <p>Printed at <hi>London</hi> for <hi>John Sweeting.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:157033:2"/>
+            <pb n="1" facs="tcp:157033:2"/>
+            <head>Reaſons Againſt the Abating the Rate OF INTEREST.</head>
+            <head type="sub">Wherein first is ſhewed how that it is not neceſſary to the raiſing of the price of Lands, for that (beſide the too much aſ<g ref="char:EOLhyphen"/>ſiſtance of accidentall cauſes) Forraigne Trade may by a more beneficiall way ef<g ref="char:EOLhyphen"/>fect the ſame.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Purchaſe and price of Lands in this Kingdome, doth riſe and fall by no other<note n="a" place="margin">The price of our Land may be raiſed alſo by a great in<g ref="char:EOLhyphen"/>creaſe of our people &amp; ſtran<g ref="char:EOLhyphen"/>gers, which would cauſe the more con<g ref="char:EOLhyphen"/>ſumption of forraign wares, &amp; a leſſe Ex<g ref="char:EOLhyphen"/>portation of our own, wher<g ref="char:EOLhyphen"/>by the King<g ref="char:EOLhyphen"/>dome would be ſoone im<g ref="char:EOLhyphen"/>poveriſhed.</note> wayes and meanes (for the common benefit) then by the profit or loſſe which is made by the over or underbal<g ref="char:EOLhyphen"/>lance
+<pb n="2" facs="tcp:157033:3"/>of our<note n="b" place="margin">We have no Treaſure but by Trade.</note> Forraigne Trade, that is to ſay, when we bring in and conſume yearely a leſſe value in Forraigne wares, than we export in our owne Commodities, we may reſt aſſured that the difference is brought in and doth re<g ref="char:EOLhyphen"/>maine to us in ſo much Treaſure. And con<g ref="char:EOLhyphen"/>trariwiſe, if wee conſume a greater value in forraigne wares than we doe export of our owne Commodities, Then is our Treaſure exhauſted to ballance the account with ſtran<g ref="char:EOLhyphen"/>gers.</p>
+            <p>Daily experience doth alſo teach us, that in thoſe Countries where monies are ſcarce, there the Lands and native wares are<note n="c" place="margin">
+                  <hi>Ireland, Muſ<g ref="char:EOLhyphen"/>covia, Poland,</hi> the <hi>Eaſt Indies,</hi> and many other places:</note> cheape, ſo likewiſe where money doth abound, there the lands and wares are<note n="d" place="margin">Spaine, Italy, <hi>the</hi> Low Coun<g ref="char:EOLhyphen"/>tryes, &amp;c.</note> deare; And thus it appeareth that although this Kingdome may be rich in it ſelfe, yet it cannot be inriched but by<note n="e" place="margin">Our wares make us rich, our Treaſure doth inrich us.</note> Trade onely, by adding Treaſure to our wares, which Treaſure being the price and meaſure of all our other meanes both perſon<g ref="char:EOLhyphen"/>all and reall, it doth thereby enable many, and multiply the number of Purchaſers, which conſequently doth cauſe the ſellers of Lands to raiſe the price; But if Lands be too much raiſed, then the proprieties of monies (or many of them) will indeavour to deliver it for more profit at Intereſt, to ſupply the oc<g ref="char:EOLhyphen"/>caſions of thoſe who will imploy it in for<g ref="char:EOLhyphen"/>raigne Trade or otherwiſe; which doth in<g ref="char:EOLhyphen"/>creaſe
+<pb n="3" facs="tcp:157033:3"/>his Majeſties Cuſtomes and Subjects Imployments.<note place="margin">The ill conſe<g ref="char:EOLhyphen"/>quences of the Abatement of Intereſt.</note>
+            </p>
+            <p>And if the Rate of the Intereſt be abated thereby to inforce the monyed men to turne all their meanes into Lands, then many loſſes will preſently follow both to the King and his Subjects;</p>
+            <p>Firſt, if we take the buſineſſe as it now ſtan<g ref="char:EOLhyphen"/>deth in this Kingdome, There are many men who have great ſummes of ready money, al<g ref="char:EOLhyphen"/>though they have neither Skill nor<note n="f" place="margin">Much money is put to Inte<g ref="char:EOLhyphen"/>reſt by the Gentry, Wid<g ref="char:EOLhyphen"/>dowes, and Orphans.</note> Will to manage it in Trade of Merchandize, except they ſhould doe it to the ruine of themſelves and others alſo, who have more knowledge and experience; yet their money is ſtill ta<g ref="char:EOLhyphen"/>ken up at Intereſt and imployed by able Mer<g ref="char:EOLhyphen"/>chants to the benefit of the King and his king<g ref="char:EOLhyphen"/>dome;</p>
+            <p>Againe, if the Rate of Intereſt be abated, it will preſently decline the quantity of our Trade, for monyed men will find meanes to make it over into the<note n="g" place="margin">The Banks of <hi>Italy</hi> do man<g ref="char:EOLhyphen"/>age the monies of their Gentry Widdows, Or<g ref="char:EOLhyphen"/>phans, or who<g ref="char:EOLhyphen"/>ſoever.</note> Bankes of <hi>Italy,</hi> and o<g ref="char:EOLhyphen"/>ther places, where it may yeeld them greater profit.</p>
+            <p>The proofe of this Truth is ſeene in the practice of divers Nations, eſpecially, I will inſtance the <hi>Dutch,</hi> whoſe Lands are<note n="h" place="margin">The <hi>Hollan<g ref="char:EOLhyphen"/>ders</hi> wealth &amp; foundation for forraign Trade proceeds not from their Na<g ref="char:EOLhyphen"/>tive wares, but from their fiſh<g ref="char:EOLhyphen"/>ing in the Eng<g ref="char:EOLhyphen"/>liſh Seas, &amp; o<g ref="char:EOLhyphen"/>ther induſtries which here I omit.</note> little and very deare, becauſe their people are ma<g ref="char:EOLhyphen"/>ny, and although the Intereſt uſually given in their Country, doth yeeld them at leaſt dou<g ref="char:EOLhyphen"/>ble
+<pb n="4" facs="tcp:157033:4"/>the profit of their Lands, yet they con<g ref="char:EOLhyphen"/>vey a great part of their monies into other Countries where they finde moſt gaine. And it is very probable that at leaſt one third part of all the monies which are delivered in <hi>Lon<g ref="char:EOLhyphen"/>don</hi> at Intereſt, appertaineth to the <hi>Dutch,</hi> who manage it here by their Factors.</p>
+            <p>And if it be objected that it is our preju<g ref="char:EOLhyphen"/>dice to ſuffer Strangers to carry away the profit of Intereſt from his Majeſties Sub<g ref="char:EOLhyphen"/>jects, The anſwer is, that (beſide their free<g ref="char:EOLhyphen"/>dome of Commerce) this loſſe by Intereſt is repaid with great advantage to his Majeſtie in his Cuſtomes and Impoſts (outward and inward) by the increaſe of trade, which ad<g ref="char:EOLhyphen"/>deth alſo unto the Subjects imployment in ſhipping and diverſe other kinds. The Mer<g ref="char:EOLhyphen"/>chant alſo who disburſteth the Intereſt to the Stranger, doth thereby reape a greater bene<g ref="char:EOLhyphen"/>fit to himſelfe in his trade; which cauſeth him to take up the money at Intereſt: All which gaines may import about 40 <hi>per Cent.</hi> yearely.</p>
+            <p>Now if the Intereſt here were brought to a lower Rate, then our Trade would certaine<g ref="char:EOLhyphen"/>ly decline, and the afore written profits to his Majeſtie and his Subjects would be loſt, and lands would fall in price. For there is no doubt that not onely Strangers, but alſo the Engliſh would convey their monies and their
+<pb n="5" facs="tcp:157033:4"/>plate alſo (if it be coyn'd into money) into thoſe<note n="i" place="margin">Italy, Turkie, Spaine, the Eaſt Indies, Ireland. &amp;c.</note> Counties where they can finde grea<g ref="char:EOLhyphen"/>ter profit: Nor can any ſtrict law prevent this evill if gaine may be obtained.</p>
+            <p>And if it bee yet further objected that a low Intereſt will give the Merchant greater encouragement to take up money to inlarge his trade.</p>
+            <p>The anſwer is already given, that when the Intereſt is low, the Merchant ſhall finde little or no mony to take up, which would diſacco<g ref="char:EOLhyphen"/>modate and perplexe others alſo who are no Traders, and force them daily to ſell Lands at<note n="k" place="margin">Where mony failes there land muſt fall.</note> low rates to ſupply their occaſions, unto which I adde only, that 2 or 3 <hi>per Cent.</hi> abated in Intereſt, is farre leſſe conſiderable in the Merchants gaine than it would prove in the monied mans loſſe.</p>
+            <p>I might produce ſome other reaſons to proove that the abating of Intereſt will car<g ref="char:EOLhyphen"/>ry our money out of this Kingdome, decline our Trade, and bring downe the price of our Lands, &amp;c. but I omit them for brevity.</p>
+            <div type="rates_of_interest">
+               <pb n="6" facs="tcp:157033:5"/>
+               <head>The Intereſt vvhich is given in ſeverall Countries:
+<list>
+                     <item>12 <hi>per Cent.</hi> yearely.</item>
+                     <item>15 <hi>per Cent.</hi> yearely.</item>
+                     <item>18 <hi>per Cent.</hi> yearely.</item>
+                     <item>20 <hi>per Cent.</hi> yearely.</item>
+                     <item>25 <hi>per Cent.</hi> yearely.</item>
+                     <item>30 <hi>per Cent.</hi> yearely.</item>
+                  </list>
+               </head>
+               <p>The Exchanges for <hi>Italy</hi> upon the Faires <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f <hi>Piacenza</hi> and other places, give 8, 9, 10.11, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2, <hi>per Cent.</hi> more or leſſe according to the <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mes of plenty or ſcarcity of money in thoſe Countries.</p>
+            </div>
+            <div type="supporting_reasons">
+               <pb n="7" facs="tcp:157033:5"/>
+               <head>Reaſons againſt raiſing the Price of our LANDS.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>F the price of Lands ſhould be improved to thirty yeares purchaſe as is deſired, ſhall not the fruites thereof, the Labourers hire, the Cattell, and all mens expences bee raiſed in proportion? Shall not the Native Commodities of this Kingdome, which ſerve for forraigne trade, as Corne, Wooll, and the like together with their manufactures be pro<g ref="char:EOLhyphen"/>portionably raiſed?</p>
+               <p>
+                  <hi>Italy</hi> is a rich Country, and very populous, which makes their Land worth neere thirty yeares purchaſe, whereby alſo their Corne Victuals, Cloath, &amp;c. are ſold at farre greater prices than we pay here in <hi>England,</hi> where
+<pb n="8" facs="tcp:157033:6"/>Land is much cheaper, and the people no<g ref="char:EOLhyphen"/>thing neere ſo many in proportion, each Countries bigneſſe duly conſidered.</p>
+               <p>When our wares are thus made deare, whe<g ref="char:EOLhyphen"/>ther ſhall we carry them? in what Country ſhall we vent them? when at the prices they are already raiſed of late yeares, we finde that the Merchants gaine is ſo little that many are diſcouraged to follow their Trade as former<g ref="char:EOLhyphen"/>ly they did; Is not the uſe of our Wares in Forraigne parts much declined, Mines of Lead and Tynne being lately found out in o<g ref="char:EOLhyphen"/>ther Countries.</p>
+               <p>The Company of Merchant Adventurers did heretofore vent foureſcore thouſand Cloathes yearely in the Nether-lands. And now (ſince the diſturbance by the Project of Dying and dreſſing of our Cloathes here, which had a faire ſhew, but a bad effect) they vent not above thirty thouſand Cloathes yearely, which it ſeemeth alſo they performe to very little profit; for the Netherlanders of late yeares doe make Cloathes as well, and as good cheape as we can doe, with Woolls from <hi>Spaine,</hi> which are of our <hi>Engliſh</hi> race granted them in the Raigne of King <hi>Henry</hi> the ſeventh, and Queene <hi>Mary.</hi> Now, conſi<g ref="char:EOLhyphen"/>der I pray you, how, and where we ſhall vent our Native Wares, if we raiſe their price to a higher rate than other Nations can and do af<g ref="char:EOLhyphen"/>ford them.</p>
+               <pb n="9" facs="tcp:157033:6"/>
+               <p>The Exportation of our Corne which for<g ref="char:EOLhyphen"/>merly returned us much money is now to<g ref="char:EOLhyphen"/>tally loſt by its<note n="a" place="margin">The multi<g ref="char:EOLhyphen"/>tude of ſtran<g ref="char:EOLhyphen"/>gers which are now in this kingdome do much increaſe our conſump<g ref="char:EOLhyphen"/>tion of forrain wares &amp; de<g ref="char:EOLhyphen"/>creaſe the Ex<g ref="char:EOLhyphen"/>portation of our native com<g ref="char:EOLhyphen"/>modities, which is a direct way to impoveriſh this kingdome. They alſo beg<g ref="char:EOLhyphen"/>ger our poore people by de<g ref="char:EOLhyphen"/>priving them of their manu<g ref="char:EOLhyphen"/>factures &amp; rai<g ref="char:EOLhyphen"/>ſing the price of corne, victu<g ref="char:EOLhyphen"/>als, rents, &amp; the like.</note> deareneſſe here, And if our exportations thus decreaſe daily, how ſhall we performe our Importations without ex<g ref="char:EOLhyphen"/>hauſting our treaſure.</p>
+               <p>I muſt confeſſe that within the time of my remembrance the vent of our Cloth in <hi>Turky</hi> is increaſed about ten thouſand Cloathes yearely, but the reaſon why, is worth our ob<g ref="char:EOLhyphen"/>ſervation. The <hi>Venetians</hi> for a long time did ſerve <hi>Conſtantinople</hi> and divers places in <hi>Tur<g ref="char:EOLhyphen"/>kie</hi> with broad Cloath, untill the <hi>Engliſh</hi> a<g ref="char:EOLhyphen"/>bout 50 yeares paſt, entring into the Trade in thoſe parts, and being able to affoord their Cloth better cheape than the <hi>Venetians,</hi> they did in few yeares drive them totally from that trade of Cloth in <hi>Turky.</hi>
+               </p>
+               <p>And thus we ſee by plaine proofe that cheape wares doe increaſe trade, and deare wares do not only cauſe their leſſe conſump<g ref="char:EOLhyphen"/>tion, but alſo decline the Merchants trade, im<g ref="char:EOLhyphen"/>poveriſh the Kingdome of Treaſure, leſſen his Majeſties Cuſtomes and Impoſts, and a<g ref="char:EOLhyphen"/>bate the Manufactures and Imployments of the poore in Shipping, Cloathing, and the like, which are matters very conſiderable to be well and duely ordered for the good of the Common-wealth.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
